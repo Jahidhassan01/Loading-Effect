@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin-top: 20%;
+    font-family: cursive;
+}
+
+.conteinar{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+}
+
+#header{
+    font-size: 50px;
+}
+
+h1{
+    font-size: 40px;
+}
+.countl{
+    display: block;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.leavel-Back{
+    position: absolute;
+    height: 10px;
+    width: 100%;
+    background: rgb(250, 249, 249);
+    border-radius: 10px;
+}
+
+.leavel-Front{
+    position: absolute;
+    height: 10px;
+    width: 100%;
+    background: rgba(196, 19, 19, 0.76);
+    border-radius: 10px;
+}
